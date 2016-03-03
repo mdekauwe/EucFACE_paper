@@ -1,0 +1,6 @@
+ Output from CABLE2 r2164+sinfil_params+PM+soil7+newLai&Ktaul with EucFACE parameters
+ Note that PARh is output as 2.3*fsd and APARh is 4.6*qcan. VPD is direct from input met file.
+ Note that Betah is fwsoil from CABLE, which may not be the beta parameter you seek.
+ Soil temperature reported for 4th layer at depth 0.234-0.643 m
+ YEAR,HOY,CO2h,PPTh,PARh,LWh,ATh,STh,VPDh,SWh,NEPh,GPPh,NPPh,CEXh,CVOCh,RECOh,RAUTOh,RLEAFh,RWOODh,RROOTh,RGROh,RHETh,RSOILh,ETh,Th,ESh,ECh,ROh,DRAINh,LEh,SHh,APARh,GCh,GAh,GBh,Betah
+ - , - , ppm,mm/h,umol/m2/s,W/m2, C, C, kPa, mm, gC/m2/h, .., .., .., .., .., .., .., .., .., .., .., .., mm/h, .., .., .., .., ..,W/m2,W/m2,umol/m2/s,mol/m2/s, .., .., - 
