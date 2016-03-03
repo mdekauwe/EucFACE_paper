@@ -4,7 +4,7 @@
 [Martin G. De Kauwe](https://mdekauwe.github.io/),
 Soenke Zaehle],
 Anthony Walker,
-Remko A. Duursma](http://www.remkoduursma.com/)
+[Remko A. Duursma](http://www.remkoduursma.com/)
 Kristina Luus,
 Michael M. Mishurov,
 Bernard Pak,
