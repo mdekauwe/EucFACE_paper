@@ -1,8 +1,26 @@
 # Using models to guide field experiments: a priori predictions for the CO<sub>2</sub> response of a nutrient- and water-limited native Eucalypt woodland.
 
-Medlyn, B. E., De Kauwe, M. G., Zaehle, S., Walker, A. P., Duursma, R. A., Luus, K., Mishurov, M., Pak, B., Smith, B., Wang, Y.-P., Yang, X., Crous, K., Drake, J. E., Gimeno, T. E., Macdonald, C. A., Norby, R. J., Power, S. A., Tjoelker, M. G., Ellsworth, D. S. *Global Change Biology*, 2016, in press.
+[Belinda E. Medlyn](https://bmedlyn.wordpress.com/),
+[Martin G. De Kauwe](https://mdekauwe.github.io/),
+[Soenke Zaehle](https://www.bgc-jena.mpg.de/bgi/index.php/People/SoenkeZaehle),
+[Anthony Walker],
+[Remko A. Duursma](http://www.remkoduursma.com/)
+[Kristina Luus],
+[Michael M. Mishurov],
+[Bernard Pak],
+[Ben Smith],
+[Ying-Ping Wang],
+[Kristine Crous],
+[John G. Drake],
+[T. E. Gimeno],
+[C. A. Macdonald],
+[R. J. Norby],
+[S. A. Power],
+[M. Tjoelker],
+[D. S. Ellsworth]
 
-[![DOI](https://zenodo.org/badge/15813/mdekauwe/EucFACE_Baseline_paper.svg)](https://zenodo.org/badge/latestdoi/15813/mdekauwe/EucFACE_Baseline_paper)
+*Global Change Biology*, 2016, in press.
+
 
 ## Overview ##
 
