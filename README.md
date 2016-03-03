@@ -2,22 +2,22 @@
 
 [Belinda E. Medlyn](https://bmedlyn.wordpress.com/),
 [Martin G. De Kauwe](https://mdekauwe.github.io/),
-[Soenke Zaehle](https://www.bgc-jena.mpg.de/bgi/index.php/People/SoenkeZaehle),
-[Anthony Walker],
-[Remko A. Duursma](http://www.remkoduursma.com/)
-[Kristina Luus],
-[Michael M. Mishurov],
-[Bernard Pak],
-[Ben Smith],
-[Ying-Ping Wang],
-[Kristine Crous],
-[John G. Drake],
-[T. E. Gimeno],
-[C. A. Macdonald],
-[R. J. Norby],
-[S. A. Power],
-[M. Tjoelker],
-[D. S. Ellsworth]
+Soenke Zaehle],
+Anthony Walker,
+Remko A. Duursma](http://www.remkoduursma.com/)
+Kristina Luus,
+Michael M. Mishurov,
+Bernard Pak,
+Ben Smith,
+Ying-Ping Wang,
+Kristine Crous,
+John G. Drake,
+T. E. Gimeno,
+C. A. Macdonald,
+R. J. Norby,
+S. A. Power,
+M. Tjoelker,
+D. S. Ellsworth.
 
 *Global Change Biology*, 2016, in press.
 
