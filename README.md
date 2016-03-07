@@ -35,8 +35,10 @@ The [met_data](met_data) folder contains all the raw data given to modellers to 
 For some models it is not possible to share code due to ownership issues, e.g. O-CN. In these cases, models have set up their own repositories and the relevant model sub-directories contains README files which point to these stored repositories.
 
 ## Model checking scripts ##
-The top-level scripts directory contains the model checking scripts (check_model_output.py; check_model_output_AVG.py) to make sure post-processed outputs are sensible. There is also a script (generate_pickled_model_output.py) to generate a big ([pandas](http://pandas.pydata.org/)) dataframe and then turn this into a binary object to allow easy access of all of the model output inside a script. Not the checking script require this binary object to be built first.
+The top-level scripts directory contains the model checking scripts (check_model_output.py; check_model_output_AVG.py) to make sure post-processed outputs are sensible. There is also a script (generate_pickled_model_output.py) to generate a big ([pandas](http://pandas.pydata.org/)) dataframe and then turn this into a binary object to allow easy access of all of the model output inside a script. Note the checking script require this binary object to be built first.
 
+## Model outputs ##
+Model outpus are each of the model/outputs sub-directories, e.g. [GDAY](models/GDAY/outputs).
 
 ## Contacts
 - Belinda Medlyn: B.Medlyn at westernsydney.edu.au
