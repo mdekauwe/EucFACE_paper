@@ -28,7 +28,7 @@ Repository containing all the model code (where possible) and associated scripts
 
 A DOI will appear here soon...
 
-# Modelling protocol ##
+## Modelling protocol ##
 Information provided to modellers to aid site parameterisation, as well as information on which variables to output, can be found in [doc](doc)
 
 ## Meteorolgical data ##
