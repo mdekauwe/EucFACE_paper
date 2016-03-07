@@ -1,0 +1,37 @@
+Fitted by Teresa Gimeno Chocarro, 6th September, 2013.
+------------------------------------------------------
+
+** NOTE ALL CONDUCTANCES ARE UNITS H2O, i.e. straight from the LiCOR **
+
+* Ball-Woodrow-Berry Model
+===========================
+slope = 11.38307     
+intercept = -0.02592
+
+assuming there is no intercept
+
+slope = 10.6205
+
+
+* Leuning Model
+================
+slope = 12.35450  
+intercept = -0.02628 
+d0 = 1.61263
+
+assuming there is no intercept
+
+slope = 12.7640
+d0 = 1.2807
+
+* Medlyn model
+==============
+slope = 4.46148  
+intercept = -0.03800
+
+assuming there is no intercept
+
+[slope = 3.94043]
+
+g1 = 3.86676  (SE=0.08966), fit by Martin Nov 2013.
+
