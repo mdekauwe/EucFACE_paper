@@ -1,4 +1,4 @@
-# OCN simulations
+# LPJ-GUESS simulations
 
 Author:
 Michael Mishurov
