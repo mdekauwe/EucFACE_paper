@@ -1,6 +1,13 @@
+# CABLE simulations
+
+Author:
+Bernard Pak
+
+## Overview ##
+
 The CABLE code is based on my branch at revision 2164. The codes I/O had been
 modified to read in the supplied met forcing directly and output the required
-text files for EucFACE submission. Further hacking to the code aims at 
+text files for EucFACE submission. Further hacking to the code aims at
 overwriting some default parameters with the EucFACE supplied parameters
 although some of these were done in the input parameter files when possible
 (veg_params_cable_MK3L_v2.txt_EucFACE, pftlookup_csiro_v16_17tiles.csv_EucFACE).
@@ -11,8 +18,8 @@ code. Please note that this fix may not be exactly the same when finally ported
 to the trunk version later on.
 
 Also please note that the Penman Monteith Method was used throughout this
-exercise and, when not specified by EucFACE, the other soil parameters follow 
-that of soil #7.
+exercise and, when not specified by EucFACE, the other soil parameters follow
+that of soil 7.
 
 ************************************
 
@@ -37,4 +44,3 @@ To run the scripts, beware to modify the head-directory first.
 
 Please note that CABLE is mainly tested on UNIX/LINUX systems using
 Intel Fortran compilers.
-
