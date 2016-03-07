@@ -29,7 +29,7 @@ Repository containing all the model code (where possible) and associated scripts
 A DOI will appear here soon...
 
 ## Meteorolgical data ##
-The met_data folder contains all the raw data given to modellers to run the 4 experiments used carried out in the paper. Note this directory has some large files in it (>50 meg).
+The [met_data](met/data) folder contains all the raw data given to modellers to run the 4 experiments used carried out in the paper. Note this directory has some large files in it (>50 meg).
 
 ## Model code ##
 For some models it is not possible to share code due to ownership issues, e.g. O-CN. In these cases, models have set up their own repositories and the relevant model sub-directories contains README files which point to these stored repositories.
