@@ -29,7 +29,7 @@ Repository containing all the model code (where possible) and associated scripts
 A DOI will appear here soon...
 
 # Modelling protocol ##
-Information given to modellers to aid site parameterisation as well as information on what variables to output, can be found in [doc](doc)
+Information provided to modellers to aid site parameterisation, as well as information on what variables to output, can be found in [doc](doc)
 
 ## Meteorolgical data ##
 The [met_data](met_data) folder contains all the raw data given to modellers to run the 4 experiments used carried out in the paper. Note this directory has some large files in it (>50 meg).
