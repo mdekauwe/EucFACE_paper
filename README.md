@@ -26,7 +26,7 @@ D. S. Ellsworth.
 
 Repository containing all the model code (where possible) and associated scripts required to reproduce simulations our Global Change Biology paper.
 
-[![DOI](https://zenodo.org/badge/15813/mdekauwe/EucFACE_paper.svg)](https://zenodo.org/badge/latestdoi/15813/mdekauwe/EucFACE_paper)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.47282.svg)](http://dx.doi.org/10.5281/zenodo.47282)
 
 ## Modelling protocol ##
 Information provided to modellers to aid site parameterisation, as well as information on which variables to output, can be found in [doc](doc)
