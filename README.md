@@ -6,18 +6,18 @@
 [Anthony Walker](https://climatechangescience.ornl.gov/content/anthony-p-walker),
 [Remko A. Duursma](http://www.remkoduursma.com/)
 Kristina Luus,
-[Michael M. Mishurov](http://web.nateko.lu.se/Personal/Michael.Mischurow/),
+[Mikhail Mishurov](http://web.nateko.lu.se/Personal/Michael.Mischurow/),
 Bernard Pak,
 [Ben Smith](http://web.nateko.lu.se/personal/benjamin.smith/frames.html),
 Ying-Ping Wang,
 Kristine Crous,
 John G. Drake,
-T. E. Gimeno,
-C. A. Macdonald,
-[R. J. Norby](http://web.ornl.gov/~rjn/),
-S. A. Power,
-M. Tjoelker,
-D. S. Ellsworth.
+Teresa E. Gimeno,
+Catriona A. Macdonald,
+[Richard J. Norby](http://web.ornl.gov/~rjn/),
+Sally A. Power,
+Mark Tjoelker,
+David S. Ellsworth.
 
 *Global Change Biology*, 2016, in press.
 
