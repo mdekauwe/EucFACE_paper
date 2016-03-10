@@ -11,13 +11,13 @@ Bernard Pak,
 [Ben Smith](http://web.nateko.lu.se/personal/benjamin.smith/frames.html),
 Ying-Ping Wang,
 Kristine Crous,
-John G. Drake,
+[John G. Drake](http://www.uws.edu.au/hie/people/postdoctoral_fellows/doctor_john_drake),
 Teresa E. Gimeno,
-Catriona A. Macdonald,
+[Catriona A. Macdonald](http://www.uws.edu.au/hie/people/researchers/doctor_catriona_macdonald),
 [Richard J. Norby](http://web.ornl.gov/~rjn/),
-Sally A. Power,
-Mark Tjoelker,
-David S. Ellsworth.
+[Sally A. Power](http://www.uws.edu.au/hie/people/researchers/associate_professor_sally_power),
+[Mark Tjoelker](http://www.uws.edu.au/hie/people/researchers/professor_mark_tjoelker),
+[David S. Ellsworth](http://www.uws.edu.au/hie/people/researchers/professor_david_ellsworth).
 
 *Global Change Biology*, 2016, in press.
 
